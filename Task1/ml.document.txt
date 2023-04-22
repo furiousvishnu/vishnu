@@ -1,0 +1,92 @@
+Thyroid Disease Classification Using ML
+Project Description:
+
+
+
+The Thyroid gland is a vascular gland and one of the most important organs of the human body. This gland secretes two hormones which help in controlling the metabolism of the body.
+
+
+
+The two types of Thyroid disorders are Hyperthyroidism and Hypothyroidism. When this disorder occurs in the body, they release certain types of hormones into the body which imbalances the body’s metabolism. A thyroid-related Blood test is used to detect this disease but it is often blurred and noise will be present. Data cleansing methods were used to make the data primitive enough for the analytics to show the risk of patients getting this disease. Machine Learning plays a very deciding role in disease prediction. Machine Learning algorithms, SVM - support vector machine, Random Forest Classifier, XGB Classifier and ANN - Artificial Neural Networks are used to predict the patient’s risk of getting thyroid disease. The web app is created to get data from users to predict the type of disease.
+
+
+
+Technical Architecture:
+
+
+
+Project Flow:
+The user interacts with the UI to enter the input.
+
+Entered input is analysed by the model which is integrated.
+
+Once the model analyses the input the prediction is showcased on the UI
+
+
+
+To accomplish this, we have to complete all the activities listed below,
+
+Define Problem / Problem Understanding
+
+Specify the business problem
+
+Business requirements
+
+Literature Survey
+
+Social or Business Impact.
+
+Data Collection & Preparation
+
+Collect the dataset
+
+Data Preparation
+
+Exploratory Data Analysis
+
+Descriptive statistical 
+
+Visual Analysis
+
+Model Building
+
+Training the model in multiple algorithms 
+
+Testing the model
+
+Performance Testing & Hyperparameter Tuning
+
+Testing model with multiple evaluation metrics
+
+Comparing model accuracy before & after applying hyperparameter tuning
+
+Model Deployment
+
+Save the best model 
+
+Integrate with Web Framework
+
+Project Demonstration & Documentation
+
+Record explanation Video for project end to end solution
+
+Project Documentation-Step by step project development procedure
+
+
+
+Project Structure:
+
+Create the Project folder which contains files as shown below
+
+
+
+
+
+We are building a flask application which needs HTML pages stored in the templates folder and a python script app.py for scripting.
+
+thyroid_1_model.pkl is our saved model. Further, we will use this model for flask integration.
+
+Training folder contains model training files and the training_ibm folder contains IBM deployment files.
+
+
+
