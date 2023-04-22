@@ -1,7 +1,8 @@
 # kubendiran and team
-# kubendiran
+
 #vishnu
 #sarath
+#kubendiran leader
 #kamesh
 ml project thyroid disease classification
 
