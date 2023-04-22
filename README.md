@@ -1,5 +1,5 @@
-# vishnu and team
-#kubendiran
+# kubendiran and team
+#vishnu
 #sarath
 #kamesh
 ml project thyroid disease classification
